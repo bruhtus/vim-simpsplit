@@ -31,6 +31,20 @@ For example: <br>
 nnoremap <silent> <leader>n :SimpSplit<CR>
 ```
 
+## Examples
+
+- First menu
+
+![simpsplit-first-menu](https://gist.github.com/bruhtus/5c62ea993904f958b32a05013ee32cc4/raw/119d3c507729f806c99447b3c7b39e298aaa19cd/simpsplit-first-menu.png)
+
+The first menu you encounter when you invoke `SimpSplit` command. You can choose whether to split the buffer horizontal or vertical.
+
+- Horizontal menu
+
+![simpsplit-horizontal-menu](https://gist.github.com/bruhtus/5c62ea993904f958b32a05013ee32cc4/raw/119d3c507729f806c99447b3c7b39e298aaa19cd/simpsplit-horizontal-menu.png)
+
+An example of horizontal menu.
+
 ## Customization
 
 `¯\_(ツ)_/¯`
