@@ -31,7 +31,7 @@ For example: <br>
 nnoremap <silent> <leader>n :SimpSplit<CR>
 ```
 
-## Examples
+### Examples
 
 - First menu
 
